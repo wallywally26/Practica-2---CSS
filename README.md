@@ -1,2 +1,2 @@
-# Practica-2---CSS
+# Practica-2 CSS/2023
 EJERCICIOS DE LA PRACTICA DE CSS
