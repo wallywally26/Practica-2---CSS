@@ -43,5 +43,6 @@ ol a:link {
 }
 ol a:visited { 
     color: purple;
+    
     text-decoration: none;
 }
